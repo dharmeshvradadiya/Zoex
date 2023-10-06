@@ -1,0 +1,21 @@
+img{
+    height: 250px;
+}
+.col{
+width: 300px;
+}
+
+
+h4{
+    color:azure;
+    text-align: center;
+}
+
+.icon{
+     text-align: center;
+     margin-bottom: 20px;
+     
+}
+i{
+    display: block;
+}
